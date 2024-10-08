@@ -23,3 +23,4 @@
 
 ## 8
 ![8](img/8.gif)
+Se emplea el método ```FindGameObjectsWithTag``` para obtener todos los GameObjects con etiqueta "esfera_tipo2". Sobre este array se calcula la esfera más cercana y la más lejana.
